@@ -1,10 +1,10 @@
 # counting-stars
 
-A Clojure library designed to ... well, that part is up to you.
+This contains the data retrival and processing logic for the post that I made for analyzing which repos have the most stars on GitHub.
 
 ## Usage
 
-FIXME
+Everything is in `core.clj`.  Just replace the `oath-token` in there with your own and you'll be good to go.
 
 ## License
 
