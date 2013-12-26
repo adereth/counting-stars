@@ -4,7 +4,7 @@ This contains the data retrival and processing logic for [the post that I made f
 
 ## Usage
 
-Everything is in `core.clj`.  Just replace the `oath-token` in there with your own and you'll be good to go.
+Everything is in `core.clj`.  Just replace the `oauth-token` in there with your own and you'll be good to go.
 
 ## License
 
