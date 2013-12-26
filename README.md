@@ -1,6 +1,6 @@
 # counting-stars
 
-This contains the data retrival and processing logic for the post that I made for analyzing which repos have the most stars on GitHub.
+This contains the data retrival and processing logic for [the post that I made for analyzing which repos have the most stars on GitHub](http://adereth.github.io/blog/2013/12/23/counting-stars-on-github/).
 
 ## Usage
 
